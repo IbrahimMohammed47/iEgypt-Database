@@ -1,7 +1,7 @@
 # iEgypt-Database
 full database for an online platform 
 
-The sql files are used to create full featured 3NF-normalized database for an online platform, features and full discription can be found in "Project Description.pdf".
+The sql files are used to create full featured 3NF-normalized database for an online platform, features and full description can be found in "Project Description.pdf".
 
 ## Design files:
 - EERD.pdf :contains EERD of the database.
